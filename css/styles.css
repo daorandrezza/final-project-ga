@@ -152,7 +152,7 @@ justify-content: center;  }
   
 
 .teacherOne {
-    background-image: url("../images/andy.jpg");
+    background-image: url("../img/andy.jpg");
     background-size: cover;
     background-color: teal;
     background-blend-mode: multiply;
@@ -176,7 +176,7 @@ justify-content: center;  }
 }
 
 .teacherTwo {
-    background-image: url(../images/play-it-kevin.jpeg);
+    background-image: url(../img/play-it-kevin.jpeg);
     background-size: cover;
     background-color: tomato;
     background-blend-mode: multiply;
@@ -200,7 +200,7 @@ justify-content: center;  }
 
 
 .teacherThree {
-    background-image: url(../images/darryl.jpg);
+    background-image: url(../img/darryl.jpg);
     background-size: cover;
     background-color: rgb(45, 136, 222);
     background-blend-mode: multiply;
